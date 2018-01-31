@@ -4,6 +4,8 @@
 
 gopeoplesay - Command Line Client for [http://dopeoplesay.com](http://dopeoplesay.com)
 
+![](https://raw.githubusercontent.com/yuroyoro/gopeoplesay/master/gopeoplesay.png)
+
 ## SYNOPSIS
 
 ```
